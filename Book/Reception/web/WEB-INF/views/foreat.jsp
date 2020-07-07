@@ -5,11 +5,11 @@
     <title>Title</title>
 </head>
 <!--<link type="text/css" href="css/index.css" rel="stylesheet" >-->
-<link href="css/foreat.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="js/jquery-1.12.4.min.js"></script>
+<link href="static/css/foreat.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="static/js/jquery-1.12.4.min.js"></script>
 <!--引入bootstrap样式-->
-<link href="bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet">
-<script src="bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+<link href="static/bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="static/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
 <body style="background-color: #ebebeb;">
 
 
