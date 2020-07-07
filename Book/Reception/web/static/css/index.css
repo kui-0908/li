@@ -1,0 +1,105 @@
+.row{
+    background-color: #e5e5e5;
+}
+#sun a{
+    margin: 0 8px;
+    text-decoration: none;
+    font-size: 15px;
+}
+#sun a:hover{
+    color: red;
+}
+#sun .all{
+    color: yellow
+}
+div{
+    margin:5px;
+}
+#type a{
+
+   color: #000000;
+    font-size: 15px;
+}
+.oln{
+    width: 1200px;
+    position: absolute;
+    top:250px;
+    left: 165px;
+    background-color: #ffffff;
+}
+.oln1{
+    color: #000000;
+    font-size: 20px;
+    font-weight: bold;
+}
+.oln2{
+    padding-left: 18px;
+    padding-right: 25px;
+    display: inline-block;
+}
+.oln9 img{
+      width: 2023px;
+    height: 50px;
+}
+.oln2 img{
+    width: 160px;
+    height: 235px;
+    background-size: 160% 235%;
+}
+.oln2 p span{
+    color: red;
+}
+.oln2 p a{
+    color: #000000;
+}
+.oln2 p a:hover{
+    text-decoration: none;
+    color: red;
+}
+.oln3{
+    width: 1200px;
+    position: absolute;
+    top:635px;
+    left: 165px;
+    background-color: #ffffff;
+}
+.oln4{
+    width: 1200px;
+    position: absolute;
+    top:1020px;
+    left: 165px;
+    background-color: #ffffff;
+}
+.oln5{
+     width: 1200px;
+     position: absolute;
+     top:1410px;
+     left: 165px;
+     background-color: #ffffff;
+ }
+.oln6{
+    width: 1200px;
+    position: absolute;
+    top:1800px;
+    left: 165px;
+    background-color: #ffffff;
+}
+.oln7{
+    width: 1200px;
+    position: absolute;
+    top:2190px;
+    left: 165px;
+    background-color: #ffffff;
+}
+.oln8{
+    width: 1200px;
+    position: absolute;
+    top:2576px;
+    left: 165px;
+    background-color: #ffffff;
+}
+section{
+    position: absolute;
+    top:100px;
+}
+
