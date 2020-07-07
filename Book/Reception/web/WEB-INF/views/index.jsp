@@ -17,7 +17,7 @@
     <div class="row" >
         <div class="col-md-7"></div>
         <div class="col-md-1">
-                <a href="demo.jsp">登&nbsp;&nbsp;录</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="#">登&nbsp;&nbsp;录</a>&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="#">注&nbsp;&nbsp;册</a>
         </div>
         <div class="col-md-1">
@@ -58,7 +58,7 @@
 
 </style>
 
-<div class="tomk">
+
 <!--人文社科-->
 <div class="oln">
     <div class="oln1">人文社科</div>
@@ -229,7 +229,7 @@
         <p><a href="#">简单逻辑学</a><br/>&nbsp;<br/><span>￥28.41</span></p>
     </div>
 </div>
-</div>
+
 </body>
 <%@include file="/WEB-INF/views/foreat.jsp" %>
 </html>
